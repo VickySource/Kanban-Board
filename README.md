@@ -108,7 +108,7 @@ JWT Authentication
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/kanban-board.git
+git clone (https://github.com/VickySource/Kanban-Board.git)
 cd kanban-board
 
 2️⃣ Backend Setup
