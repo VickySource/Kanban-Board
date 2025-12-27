@@ -4,6 +4,9 @@ import bodyParser from 'body-parser';
 import sectionRouter from './src/features/sections/section.routes.js';
 import taskRouter from './src/features/tasks/task.routes.js';
 import userRouter from './src/features/user/user.routes.js';
+import dotenv from "dotenv";
+dotenv.config();
+
 import cors from "cors";
 
 const app = express();
