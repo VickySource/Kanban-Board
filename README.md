@@ -125,11 +125,6 @@ Start the backend server:
 
 npm start
 
-
-Backend runs on:
-
-http://localhost:5000
-
 3️⃣ Frontend Setup
 cd ../frontend
 npm install
@@ -138,7 +133,7 @@ npm run dev
 
 Frontend runs on:
 
-http://localhost:5173
+(https://kanban-board-6ut9c7h5u-vickys-projects-dbaa9236.vercel.app/)
 
 🔌 API Endpoints
 Authentication
