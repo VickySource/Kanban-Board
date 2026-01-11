@@ -133,7 +133,7 @@ npm run dev
 
 Frontend runs on:
 
-(https://kanban-board-6ut9c7h5u-vickys-projects-dbaa9236.vercel.app/)
+https://kanban-board-two-taupe.vercel.app/
 
 🔌 API Endpoints
 Authentication
